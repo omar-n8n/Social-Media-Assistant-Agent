@@ -34,7 +34,7 @@ The workflow automates the entire content pipeline:
 
 # 📸 Workflow Overview
 
-![Workflow Overview](./Screenshots/Social-Media-Assistant-Agent.jpeg)
+![Workflow Overview](Screenshots/Social-Media-Assistant-Agent.jpeg)
 
 ---
 
